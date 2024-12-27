@@ -1,0 +1,5 @@
+data/*
+token.json
+credentials.json
+.DS_Store
+config.yaml
